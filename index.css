@@ -14,7 +14,7 @@ nav {
 }
 
 body {
-    background-color: #f2f2f2;
+    background-color: #dddddd;
     margin: 0;
     padding: 0;
     line-height: 150%;
@@ -68,10 +68,11 @@ h1 {
 
 #about-me {
     width: 960px;
-    border: 5px solid lightgrey;
+    border: 5px solid #dddddd;
     padding: 50px;
     margin: 50px auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    background-color: #ffffff
 }
